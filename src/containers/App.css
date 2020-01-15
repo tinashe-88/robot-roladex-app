@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barriecito', serif;
+    src: 'https://fonts.googleapis.com/css?family=Barriecito&display=swap';
+}
+
+h1 {
+    text-transform: uppercase;
+}
